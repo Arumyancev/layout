@@ -1,4 +1,3 @@
-# layout
-CssGrid Layout
+# CssGrid Layout
 
 https://arumyan.github.io/layout/
